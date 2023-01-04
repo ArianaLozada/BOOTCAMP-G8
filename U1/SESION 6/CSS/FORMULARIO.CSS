@@ -1,0 +1,17 @@
+.CASILLANOMBRE{
+
+    font-family: Arial, Helvetica, sans-serif;
+    width: 300PX;
+    height: 25PX;
+    border: 1PX BLACK ;
+    border-style: solid;
+    border-radius: 5PX;
+
+}
+
+.CASILLABOTON{
+
+    width: 250PX;
+    height: 35PX;
+    
+}

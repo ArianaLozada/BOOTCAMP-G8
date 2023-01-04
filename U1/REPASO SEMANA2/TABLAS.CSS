@@ -1,0 +1,41 @@
+.tabla-info{
+
+    border: 1px gray;
+    border-style: solid;
+
+}
+
+.titulo{
+
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(255, 217, 119);
+    height: 45px;
+}
+
+.imagen{
+
+    text-align: center;
+}
+
+.info-personal{
+
+    background-color: rgb(255, 217, 119);
+    height: 30px;
+}
+
+.familia{
+
+    background-color: rgb(255, 217, 119);
+    height: 30px;
+
+}
+
+.información-personal{
+
+    background-color: rgb(255, 217, 119);
+    height: 30px;
+
+}
+
+

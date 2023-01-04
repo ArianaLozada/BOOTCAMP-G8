@@ -1,0 +1,62 @@
+.titulo-caja{
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+
+.primera-sección{
+
+    background-color: aquamarine;
+    width: 700px;
+    height: 900px;
+    margin-left: 330px  ;
+    text-align: center;
+    padding-top: 50px;
+    border: 2px rgb(0, 0, 0) ;
+    border-style: dashed ;
+    outline: 5px yellow; 
+
+}
+
+.caja1{
+
+background-color: salmon;
+width: 400px;
+height: 250px;
+margin-left: 20px ;
+border: 5px black;
+border-style: dotted  ;
+
+outline: 5px green;
+outline-style: solid;
+float: left;
+
+}
+
+.titulo-parrafo{
+
+ text-decoration: underline ;
+}
+
+.parrafo{
+
+ text-decoration: underline ;
+   
+   }
+
+.cajita2{
+
+    background-color: salmon;
+    width: 400px;
+    height: 250px;
+    margin-left: 20px ;
+    border: 5px black;
+    border-style: dotted  ;
+
+    outline: 5px green;
+    outline-style: solid;
+    float: right ;
+
+}
+

@@ -1,0 +1,56 @@
+h1{
+    
+    color: blueviolet;
+    background-color: beige;
+    font-size: 80px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+
+    color: rgb(129, 91, 33);
+    font-size: 50PX;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+div{ 
+
+  background-color: beige;
+  border: 5px black;
+  border-style: groove;
+  border-radius: 10px;
+
+}   
+
+
+.hola{
+
+  color: rgb(164, 194, 250);
+
+}
+
+.hola1{
+
+    color: rgb(107, 156, 247);
+  
+  }
+
+  .hola2{
+
+    color: rgb(66, 130, 248);
+  
+  }
+
+  .hola3{
+
+    color: rgb(0, 83, 236);
+  
+  }
+
+  .cajita{
+
+    background-color: rgb(241, 255, 176) ;
+    border: rgb(0, 0, 0);
+    border-style: groove ;
+  }

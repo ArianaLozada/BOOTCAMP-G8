@@ -1,0 +1,27 @@
+body{
+
+    background-color: rgb(215, 239, 247);
+    text-align: center;
+}
+
+
+.titulo-principal{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40PX;
+    color: rgb(115, 211, 255);
+}
+
+.DATOS{
+
+    background-color: rgb(140, 201, 255);
+    height: 200px ;
+    width: 350px;
+    border-top: 2px solid black ;
+    border-right: 2px dashed black ;
+    border-bottom: 2px dotted black ;
+    border-left: 2px double black;
+
+    margin-left: 500px;
+    padding: 30px;
+}
